@@ -3,6 +3,13 @@
 **Desenvolvedor Júnior | Graduando em Análise e Desenvolvimento de Sistemas**  
 FATEC Dom Paulo Evaristo Arns | 6º Semestre
 
+### 🛠️ homelab com Proxmox VE
+Configuração e administração de ambiente de virtualização:
+- Máquinas virtuais para desenvolvimento e produção
+- Containers LXC para serviços leves
+- Gerenciamento de clusters e alta disponibilidade
+- Configuração de redes virtuais e armazenamento
+
 ---
 
 ## 🧠 Habilidades Técnicas
