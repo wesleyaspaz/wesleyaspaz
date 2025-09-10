@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wesley Paz!
 
-<!--
-**wesleyaspaz/wesleyaspaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graduando em Análise e Desenvolvimento de Sistemas | Entusiasta de IA Local & Open-Source
 
-Here are some ideas to get you started:
+Sou um técnico em TI com experiência em suporte avançado e infraestrutura, que migrou para o desenvolvimento de sistemas com foco em **Inteligência Artificial aplicada e acessível**. Meu grande interesse é integrar hardware legado com tecnologias modernas, criando soluções práticas que priorizam a **segurança, privacidade e eficiência**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Habilidades Técnicas
+
+**🤖 IA generativa:**
+- Geração e manipulação de conteúdo (imagem, áudio, texto) com **Stable Diffusion** e **LLMs** (ComfyUI, LM Studio).
+
+**💻 Desenvolvimento & Infraestrutura:**
+- `Python` | `HTML` | `CSS` | `JavaScript`
+- Virtualização (Proxmox) | Servidores SSH e DNS (Pi-hole)
+- Modelagem de sistemas (UML) | Prototipagem (Figma, Penpot)
+
+**🎯 Soft Skills:**
+- Colaboração | Comunicação | Adaptabilidade
+- Inglês Avançado (TOEIC: 740)
+
+---
+
+### 🚀 
+
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**: Geração e edição de imagens via Stable Diffusion com interface nodal, executada localmente.
+- **[LM Studio](https://lmstudio.ai/)**: Execução local de LLMs com suporte a RAG para interação com documentos privados.
+- **[Pinokio](https://pinokio.com/)**: Automação e gerenciamento de aplicações locais, como o FaceFusion para manipulação facial.
+  
+---
+
+### 📫 Contato
+
+- 🌍 Localização: São Paulo, SP
+
+---
+
+> **TCC em Andamento:** Integração de Hardware Legado e Moderno com APIs e IA Local para garantir privacidade e praticidade.
+
+🔎 *Sempre aberto a colaborações em projetos inovadores de IA, automação e open-source!*
