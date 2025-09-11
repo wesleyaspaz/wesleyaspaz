@@ -19,21 +19,19 @@ Configuração e administração de ambiente de virtualização:
   - Windows e ChromeOS
 
 - **Infraestrutura**: 
-  - SSH, DNS (Pi-hole), VirtualBox
+  - VPS, SSH, DNS (Pi-hole), VirtualBox
   - Configuração básica de servidores
 
 - **Desenvolvimento**: 
-  - Python (POO, venv/conda)
-  - HTML, CSS, JavaScript
+  - Backend Python (POO, Flask, venv/conda, ollama api (IA))
+  - Frontend basico HTML, CSS, JavaScript
+  - Infra: Dockerfile, nginx e guacamole.
   - Conceitos de programação e lógica
-
-- **IA & ML**: 
-  - LLMs locais, Stable Diffusion
-  - Ferramentas: ComfyUI, LM Studio, Pinokio
 
 - **Ferramentas**: 
   - Astah UML, Penpot, Figma
   - Pacote Office/LibreOffice
+  - Kanban para gestão de projetos no github
 
 - **Idiomas**: 
   - Inglês Intermediário Avançado (TOEIC 740)
