@@ -1,7 +1,7 @@
 # Wesley Paz
 
 **Desenvolvedor Júnior | Graduando em Análise e Desenvolvimento de Sistemas**  
-FATEC Dom Paulo Evaristo Arns | 6º Semestre
+FATEC Dom Paulo Evaristo Arns | 6º Semestre ..
 
 ### 🛠️ homelab com Proxmox VE
 Configuração e administração de ambiente de virtualização:
