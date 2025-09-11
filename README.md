@@ -47,11 +47,6 @@ Configuração e administração de ambiente de virtualização:
 
 ---
 
-## 📫 Contato
-
-- **Email**: [wesley.as.paz23@gmail.com](mailto:wesley.as.paz23@gmail.com)
-- **Localização**: São Paulo, SP
-
 
 ---
 
