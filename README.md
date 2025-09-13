@@ -59,7 +59,7 @@ Configuração de softwares e modelos atuais local ou em nuvem
 - **LM Studio**: Testes com execução local de modelos de linguagem
 - **Pinokio**: Configuração de aplicações locais com IA
 - **MPCount**: Estudo de visão computacional para contagem de pessoas
-- **ani-cli**: Uma ferramenta CLI para pesquisar e assistir animes
+- **ani-cli**: Uma ferramenta CLI para pesquisar e assistir animes no terminal
 
 ---
 
