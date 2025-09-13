@@ -3,14 +3,22 @@
 **Desenvolvedor Júnior | Graduando em Análise e Desenvolvimento de Sistemas**  
 FATEC Dom Paulo Evaristo Arns | 6º Semestre ..
 
-### 🛠️ homelab com Proxmox VE
+### 🛠️ Conhecimentos Praticos ###
+
+## homelab com Proxmox VE
 Configuração e administração de ambiente de virtualização:
 - Máquinas virtuais para desenvolvimento e produção
 - Containers LXC para serviços leves
 - Gerenciamento de clusters e alta disponibilidade
 - Configuração de redes virtuais e armazenamento
 
----
+## Landing pages em nuvem free tier
+Configuração de LPs de custo inicial baixo e sem mensalidades
+- Aquisição de dominio (Custo)
+- Proteção do dominio com clouldflare (free tier)
+- Criação de LPs modernas com ia (free tier)
+- Configuração da hospedagem em github pages (free tier)
+--- 
 
 ## 🧠 Habilidades Técnicas
 
@@ -19,7 +27,7 @@ Configuração e administração de ambiente de virtualização:
   - Windows e ChromeOS
 
 - **Infraestrutura**: 
-  - VPS, SSH, DNS (Pi-hole), VirtualBox
+  - VPS, SSH, DNS, VirtualBox, boxes
   - Configuração básica de servidores
 
 - **Desenvolvimento**: 
@@ -29,7 +37,7 @@ Configuração e administração de ambiente de virtualização:
   - Conceitos de programação e lógica
 
 - **Ferramentas**: 
-  - Astah UML, Penpot, Figma
+  - Basico de Astah UML, Penpot, Figma
   - Pacote Office/LibreOffice
   - Kanban para gestão de projetos no github
 
