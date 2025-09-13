@@ -46,18 +46,20 @@ Configuração de softwares e modelos atuais local ou em nuvem
   - Basico de Astah UML, Penpot, Figma
   - Pacote Office/LibreOffice
   - Kanban para gestão de projetos no github
+  - Synaptic Package Manager
 
 - **Idiomas**: 
   - Inglês Intermediário Avançado (TOEIC 740)
 
 ---
 
-## 🤖 repositorios interessantes de IA que utilizei
+## 🤖 repositorios que acho interessantes
 
-- **ComfyUI**: Experimentação com geração de imagens via stable diffusion
+- **ComfyUI**: Experimentação com geração de imagens e videos
 - **LM Studio**: Testes com execução local de modelos de linguagem
-- **Pinokio**: Configuração de aplicações locais para automação
+- **Pinokio**: Configuração de aplicações locais com IA
 - **MPCount**: Estudo de visão computacional para contagem de pessoas
+- **ani-cli**: Uma ferrametna CLI para pesquisar e assistir animes
 
 ---
 
