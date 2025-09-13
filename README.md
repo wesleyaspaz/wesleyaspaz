@@ -18,17 +18,23 @@ Configuração de LPs de custo inicial baixo e sem mensalidades
 - Proteção do dominio com clouldflare (free tier)
 - Criação de LPs modernas com ia (free tier)
 - Configuração da hospedagem em github pages (free tier)
+
+## Geração de midia com IA
+Configuração de softwares e modelos atuais local ou em nuvem
+- ComfyUI para geração de imagens e videos (Wan 2.2) 
+- Pinokio browser para diversas aplicações com ia (Audio, Edição etc..)
 --- 
 
 ## 🧠 Habilidades Técnicas
 
 - **Sistemas Operacionais**: 
-  - Linux (antiX, MX Linux, SteamOS, Bodhi Linux, Ubuntu, Debian)
+  - Linux (antiX, MX Linux, SteamOS, Bodhi Linux, Ubuntu, Debian, fedora, proxmox)
   - Windows e ChromeOS
 
 - **Infraestrutura**: 
   - VPS, SSH, DNS, VirtualBox, boxes
   - Configuração básica de servidores
+  - Manutenção fisica em computadores e notebooks 
 
 - **Desenvolvimento**: 
   - Backend Python (POO, Flask, venv/conda, ollama api (IA))
